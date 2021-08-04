@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamaljeetsahoo" alt="kamaljeetsahoo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kamaljeet_sahoo" target="blank"><img src="https://img.shields.io/twitter/follow/kamaljeet_sahoo?logo=twitter&style=for-the-badge" alt="kamaljeet_sahoo" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/kamaljeet_sahoo" target="blank"><img src="https://img.shields.io/twitter/follow/kamaljeet_sahoo?logo=twitter&style=for-the-badge" alt="kamaljeet_sahoo" /></a> </p> -->
 
 - 🔭 I’m currently working on [Javascript based April Tag Detector](https://github.com/KamaljeetSahoo/AprilTag-Detector)
 
