@@ -39,11 +39,18 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">Connect with me:</h2>
-<p align="center"><a href="https://twitter.com/kamaljeet_sahoo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamaljeet_sahoo" height="30" width="40" /></a>&nbsp;<a href="https://linkedin.com/in/kamaljeet-sahoo-347705134" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamaljeet-sahoo-347705134" height="30" width="40" /></a>&nbsp;<a href="https://fb.com/kamaljeetsahoo1606" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamaljeetsahoo1606" height="30" width="40" /></a>&nbsp;<a href="https://instagram.com/kamaljeet_kjs" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamaljeet_kjs" height="30" width="40" /></a>&nbsp;<a href="https://medium.com/@kamaljeetsahoo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kamaljeetsahoo" height="30" width="40" /></a></p>
+
+<p align="center">
+  <a href="https://twitter.com/kamaljeet_sahoo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/kamaljeet-sahoo-347705134" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://fb.com/kamaljeetsahoo1606" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/kamaljeet_kjs" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://medium.com/@kamaljeetsahoo" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/KamaljeetSahoo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=600&color=F6C32C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Deep+Learning+Enthusiast;Building+F1+Machine+%F0%9F%8F%8E%EF%B8%8F;Hacking+on+Projection+Mapping+%E2%9C%A8;Always+learning%2C+always+shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=600&color=F6C32C&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Deep+Learning+Enthusiast;Building+F1+Machine+%F0%9F%8F%8E%EF%B8%8F;Hacking+on+Projection+Mapping+%E2%9C%A8;Always+learning%2C+always+shipping" alt="Typing SVG" />
   </a>
 </p>
 
