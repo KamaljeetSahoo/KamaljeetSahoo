@@ -22,11 +22,6 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamaljeetsahoo&label=Profile%20views&color=0e75b6&style=flat" alt="kamaljeetsahoo" /> </p> -->
 
-<p align="center"> 
-  Visitors count:<br>
-  <img src="https://profile-counter.glitch.me/KamaljeetSahoo/count.svg" />
-</p>
-
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=kamaljeetsahoo&column=7&theme=chalk" alt="kamaljeetsahoo" /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/kamaljeet_sahoo" target="blank"><img src="https://img.shields.io/twitter/follow/kamaljeet_sahoo?logo=twitter&style=for-the-badge" alt="kamaljeet_sahoo" /></a> </p> -->
@@ -34,8 +29,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [F1 Machine](https://github.com/KamaljeetSahoo/f1-machine) and [Projection Mapping](https://github.com/KamaljeetSahoo/projection-mapping)
 
 - 👨‍💻 All of my projects are available at [https://github.com/KamaljeetSahoo](https://github.com/KamaljeetSahoo)
-
-- 💬 Ask me about **PyTorch, OpenCV**
 
 - 📫 How to reach me **kamaljeetsahoo@gmail.com**
 
@@ -46,16 +39,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">Connect with me:</h2>
-<p align="center">
-<a href="https://twitter.com/kamaljeet_sahoo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamaljeet_sahoo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kamaljeet-sahoo-347705134" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamaljeet-sahoo-347705134" height="30" width="40" /></a>
-<a href="https://fb.com/kamaljeetsahoo1606" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamaljeetsahoo1606" height="30" width="40" /></a>
-<a href="https://instagram.com/kamaljeet_kjs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamaljeet_kjs" height="30" width="40" /></a>
-<a href="https://medium.com/@kamaljeetsahoo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kamaljeetsahoo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kamaljeetsahoo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kamaljeetsahoo" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kamaljeetsahoo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamaljeetsahoo" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kamaljeetsahoo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kamaljeetsahoo" height="30" width="40" /></a>
-</p>
+<p align="center"><a href="https://twitter.com/kamaljeet_sahoo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamaljeet_sahoo" height="30" width="40" /></a>&nbsp;<a href="https://linkedin.com/in/kamaljeet-sahoo-347705134" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamaljeet-sahoo-347705134" height="30" width="40" /></a>&nbsp;<a href="https://fb.com/kamaljeetsahoo1606" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamaljeetsahoo1606" height="30" width="40" /></a>&nbsp;<a href="https://instagram.com/kamaljeet_kjs" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamaljeet_kjs" height="30" width="40" /></a>&nbsp;<a href="https://medium.com/@kamaljeetsahoo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kamaljeetsahoo" height="30" width="40" /></a></p>
 
 <p align="center">
   <a href="https://github.com/KamaljeetSahoo">
@@ -71,15 +55,4 @@ Here are some ideas to get you started:
   </picture>
 </p>
 
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamaljeetsahoo&show_icons=true&locale=en&layout=compact" alt="kamaljeetsahoo" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamaljeetsahoo&show_icons=true&locale=en" alt="kamaljeetsahoo" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamaljeetsahoo&" alt="kamaljeetsahoo" /></p> -->
-
-<h2 align="center">Quick stats about me</h2>
-
-| GitHub Stats | Top Languages |
-| --- | --- |
-| ![Kamaljeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamaljeetsahoo&show_icons=true&count_private=true) | ![Kamaljeet's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamaljeetsahoo&show_icons=true&count_private=true&layout=compact) |
 
