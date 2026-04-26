@@ -33,23 +33,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [F1 Machine](https://github.com/KamaljeetSahoo/f1-machine) and [Projection Mapping](https://github.com/KamaljeetSahoo/projection-mapping)
 
-- 🌱 I’m currently learning **React-Native, Kafka**
-
-- 👯 I’m looking to collaborate on [6th Sense](https://github.com/KamaljeetSahoo/6thSense)
-
-- 🤝 I’m looking for help with [ANN](https://github.com/KamaljeetSahoo/Basic-ANN-Pytorch)
-
 - 👨‍💻 All of my projects are available at [https://github.com/KamaljeetSahoo](https://github.com/KamaljeetSahoo)
-
-- 📝 I regularly write articles on [https://medium.com/@kamaljeetsahoo](https://medium.com/@kamaljeetsahoo)
 
 - 💬 Ask me about **PyTorch, OpenCV**
 
 - 📫 How to reach me **kamaljeetsahoo@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/KamaljeetSahoo](https://github.com/KamaljeetSahoo)
-
-- ⚡ Fun fact **Love for Python and Javascript**
+- 📄 Know about my experiences [https://linkedin.com/in/kamaljeet-sahoo-347705134](https://linkedin.com/in/kamaljeet-sahoo-347705134)
 <!-- 
 ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -74,7 +64,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github.com/KamaljeetSahoo/KamaljeetSahoo/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KamaljeetSahoo/KamaljeetSahoo/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamaljeetSahoo/KamaljeetSahoo/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/KamaljeetSahoo/KamaljeetSahoo/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamaljeetsahoo&show_icons=true&locale=en&layout=compact" alt="kamaljeetsahoo" /></p>
