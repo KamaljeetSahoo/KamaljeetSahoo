@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="rainbow divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,30,24,17&height=5" width="100%" alt="divider" />
 </p>
 
 <p align="center">
