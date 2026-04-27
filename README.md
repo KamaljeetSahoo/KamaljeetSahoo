@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/KamaljeetSahoo](https://github.com/KamaljeetSahoo)
 
-- 📫 How to reach me **kamaljeetsahoo@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/kamaljeet-sahoo](https://www.linkedin.com/in/kamaljeet-sahoo)
 <!-- 
 ### Blogs posts -->
@@ -36,11 +34,12 @@ Here are some ideas to get you started:
 <h2 align="center">Connect with me:</h2>
 
 <p align="center">
-  <a href="https://twitter.com/kamaljeet_sahoo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.linkedin.com/in/kamaljeet-sahoo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://fb.com/kamaljeetsahoo1606" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/kamaljeet_kjs" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://medium.com/@kamaljeetsahoo" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://twitter.com/kamaljeet_sahoo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1f1f1f?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/kamaljeet-sahoo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://fb.com/kamaljeetsahoo1606" target="_blank"><img src="https://img.shields.io/badge/Facebook-1f1f1f?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/kamaljeet_kjs" target="_blank"><img src="https://img.shields.io/badge/Instagram-1f1f1f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://medium.com/@kamaljeetsahoo" target="_blank"><img src="https://img.shields.io/badge/Medium-1f1f1f?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:kamaljeetsahoo@gmail.com"><img src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -55,14 +54,6 @@ Here are some ideas to get you started:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamaljeetSahoo/KamaljeetSahoo/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/KamaljeetSahoo/KamaljeetSahoo/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,30,24,17&height=5" width="100%" alt="divider" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KamaljeetSahoo/KamaljeetSahoo/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph - night rainbow" />
 </p>
 
 
