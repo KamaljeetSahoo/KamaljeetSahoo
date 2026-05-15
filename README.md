@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/KamaljeetSahoo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=600&color=F6C32C&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Deep+Learning+Enthusiast;Building+F1+Machine+%F0%9F%8F%8E%EF%B8%8F;Hacking+on+Projection+Mapping+%E2%9C%A8;Always+learning%2C+always+shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=600&color=F6C32C&center=true&vCenter=true&width=480&lines=Always+learning%2C+Always+building" alt="Typing SVG" />
   </a>
 </p>
 
